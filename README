@@ -1,0 +1,2 @@
+Runconfiguration VM ARG:
+-Djava.library.path=lib/native/windows
